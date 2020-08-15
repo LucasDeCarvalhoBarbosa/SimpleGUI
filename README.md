@@ -6,7 +6,8 @@ It is simple, but has fundamental widgets such as containers, buttons, labels, t
 Some of them support images (although it needs some adjustments).
 
 ## Download
-To download, go to releases
+To download, go to releases.  
+The documentation is in <https://lucasdecarvalhobarbosa.github.io/SimpleGUI/>  
 
 ## Why was it made for Slick only?
 Because it was built on top of Slick primitives, like the Rectangle class.
